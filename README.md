@@ -29,5 +29,11 @@ Add the following line into file /var/www/html/phpinfo.php
 Save and exit ( Ctrl + O, Ctrl + X)
 
 
-
 http://ubuntuserverguide.com/2014/06/how-to-install-lamp-in-ubuntu-server-14-04-lts.html
+
+#Start Service
+
+/opt/lampp/lampp start
+nautilus
+
+
